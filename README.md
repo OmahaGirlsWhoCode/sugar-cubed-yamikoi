@@ -1,2 +1,4 @@
 # sugar-cubed-yamikoi
-Sugar Cubed Make Your Own Apocalypse by Nevaeh
+Nevaeh's Sugar Cubed Game
+
+https://sugar-cubed-yamikoi.herokuapp.com/w
